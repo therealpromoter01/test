@@ -1,0 +1,19 @@
+
+
+.box2-fluid{
+    background-color: red;
+    height: 600px;
+    position: relative;
+    width: 100%;
+}
+
+.box2-fluid img{
+    position: absolute;
+    height: 350px;
+    top: 10px;
+    left: 20px;
+    right: 20px;
+}
+
+
+
